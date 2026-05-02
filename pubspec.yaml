@@ -62,6 +62,7 @@ flutter:
     - assets/images/welcome.png
     - assets/images/sign_in.png
     - assets/images/forgot_password.png
+    - assets/images/Sleep.png
     - assets/icons/facebook.png
     - assets/icons/google.png
     - assets/icons/apple.png

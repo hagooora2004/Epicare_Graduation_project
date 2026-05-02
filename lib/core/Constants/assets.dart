@@ -13,4 +13,5 @@ class AssetsData {
   static const refresh = 'assets/icons/tabler_refresh.png';
   static const signin = 'assets/images/sign_in.png';
   static const forgotpassword = 'assets/images/forgot_password.png';
+  static const sleeep = 'assets/images/Sleep.png';
 }
